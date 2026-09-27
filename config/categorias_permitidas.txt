@@ -1,0 +1,5 @@
+Servico de logistica
+Armazem
+Supermercado
+Farmacia
+Loja de departamentos
